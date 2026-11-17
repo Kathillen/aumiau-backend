@@ -164,3 +164,6 @@ https://aumiau-backend-production.up.railway.app/docs
 ## Observações
 
 A confirmação de pagamento possui caráter de simulação e não realiza transações financeiras reais.
+
+DOCUMENTAÇÃO:
+https://docs.google.com/document/d/1gV6M4zQLlUmGyjDaYO2miUuS-Rh_RcQBVn5p3bW9La0/edit?usp=sharing
