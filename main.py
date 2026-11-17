@@ -16,6 +16,7 @@ app.add_middleware(
         "http://127.0.0.1:5173",
         "https://aumiau-v2.vercel.app"
     ],
+    allow_origin_regex=r"https://aumiau-v2-.*\.vercel\.app",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
